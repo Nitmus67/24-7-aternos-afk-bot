@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "24by7BotDontHurtHim",
+    "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "He4rtlessSmp.aternos.me:60109",
+    "ip": "He4rtlessSmp.aternos.me",
     "port": 60109,
     "version": "1.20.1",
     "try-creative": false
